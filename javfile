@@ -1,3 +1,4 @@
+
 int main(void)
 {
 
@@ -7,3 +8,7 @@ int main(void)
 		    printf("String:[%s]\n", "I am a string !");
 		        _printf("Character:[%c]\n", 'M');
 }
+qqq
+
+hola mama
+hola enfermera
